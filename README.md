@@ -10,62 +10,11 @@
 
 
 I am **Yasser Taibi** 😃  
-📍 Lyon, France.
+📍 Lyon, France.</br>
 💼 FullStack Developer **Java / Angular** based in **Lyon, France 🇫🇷**.  
 🚀 Passionate about building secure, scalable and high-performance applications.
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-public class YasserTaibi {
-
-    String name = "Yasser Taibi";
-    String location = "Lyon, France";
-    String role = "FullStack Java / Angular Developer";
-
-    String[] backend = {
-        "Java 17",
-        "Spring Boot 3",
-        "Hibernate / JPA",
-        "Spring Security",
-        "JWT",
-        "Node.js / Express"
-    };
-
-    String[] frontend = {
-        "Angular (v11 → v17+)",
-        "TypeScript",
-        "RxJS",
-        "Angular Material",
-        "Bootstrap"
-    };
-
-    String[] databases = {
-        "SQL Server",
-        "PostgreSQL",
-        "MySQL",
-        "MongoDB"
-    };
-
-    String[] tools = {
-        "Git",
-        "GitHub",
-        "GitLab",
-        "Jenkins",
-        "Swagger / OpenAPI",
-        "Postman",
-        "IntelliJ",
-        "VS Code"
-    };
-
-    String[] architecture = {
-        "RESTful APIs",
-        "Microservices",
-        "Secure Authentication (JWT)",
-        "CI/CD Integration"
-    };
-
-    String currentFocus = "Building scalable and secure backend systems with Spring Boot";
-
-}
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...</br>
 
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://international.nubank.com.br/about/">Nubank</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
