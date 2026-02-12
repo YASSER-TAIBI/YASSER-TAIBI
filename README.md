@@ -11,13 +11,9 @@
 
 I am **Yasser Taibi** 😃  
 📍 Lyon, France.</br>
-💼 FullStack Developer **Java / Angular** based in **Lyon, France 🇫🇷**.  
+💼 Software Engineer at <a href="https://www.sqli.com/int-en/sqli-group">Sqli</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 🚀 Passionate about building secure, scalable and high-performance applications.
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...</br>
-
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Engineer at <a href="https://international.nubank.com.br/about/">Nubank</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
 ## 👨‍💻 Professional Experience
 
