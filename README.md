@@ -11,7 +11,7 @@
 
 I am **Yasser Taibi** 😃  
 📍 Lyon, France.</br>
-💼 Software Engineer at <a href="https://www.sqli.com/int-en/sqli-group">Sqli</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+💼 Software Engineer at <a href="https://abylsen.com/le-groupe/">Abylsen</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 🚀 Passionate about building secure, scalable and high-performance applications.
 
 
@@ -24,7 +24,7 @@ I am **Yasser Taibi** 😃
 
 
 
-## 👨‍💻 <h2 align="left">I code with</h2>
+## <h2 align="left">👨‍💻 I code with</h2>
 
 ###
 
