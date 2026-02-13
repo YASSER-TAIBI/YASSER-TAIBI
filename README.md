@@ -15,7 +15,7 @@ I am **Yasser Taibi** 😃
 🚀 Passionate about building secure, scalable and high-performance applications.
 
 
-## 👨‍💻 Professional Experience
+## 💻 Professional Experience
 
 * 🔹 FullStack Java / Angular Developer – **SQLI (Lyon)**
 * 🔹 FullStack Developer – **Louis Vuitton (Paris)**
@@ -24,7 +24,7 @@ I am **Yasser Taibi** 😃
 * 🔹 Projects for: Technicatome, TotalEnergies, PetroIneos
 
 
-## 👨‍💻 Professional Experience
+## 👨‍💻 I code with
 
 ###
 
