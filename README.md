@@ -20,15 +20,15 @@ I am **Yasser Taibi** 😃
 * 🔹 FullStack Java / Angular Developer – **SQLI (Lyon)**
 * 🔹 FullStack Developer – **Louis Vuitton (Paris)**
 * 🔹 MEAN Stack Developer – **Elitelabs (Paris)**
+* 🔹 Java Developer – **Ahl Brahim (Maroc)**
 * 🔹 Projects for: Technicatome, TotalEnergies, PetroIneos
 
 
-
-## <h2 align="left">👨‍💻 I code with</h2>
+## 👨‍💻 Professional Experience
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
